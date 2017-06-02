@@ -1,0 +1,4 @@
+*.suo
+packages/
+PlayWithRemoteRepos/bin/
+PlayWithRemoteRepos/obj/Debug/
